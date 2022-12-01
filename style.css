@@ -117,7 +117,7 @@ footer ul li , footer p{
 }
 @media only screen and (max-width: 678px) {
   .space{
-    margin:10px;
+    margin:20px  10px;
   }
   .content{
     margin-top: 20px;
